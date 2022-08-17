@@ -1,5 +1,5 @@
 # Updatelx
-This tool will help you update your linux/unix machine with a single command .
+A simple CLI  tool to help you update your linux/unix machine with a single command .
 
 Installing (Kali Linux/Termux):
 ```
@@ -8,3 +8,7 @@ cd Updatelx
 sudo chmod +x ./update.sh
 sudo ./update.sh
 ```
+
+Hope you found this useful .
+
+cheers:)
